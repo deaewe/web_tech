@@ -2,3 +2,5 @@ git init
 git status
 git add octocat.txt
 git commit -m"Add cute octocat story"
+git log
+git push
